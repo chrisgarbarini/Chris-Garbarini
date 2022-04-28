@@ -1,7 +1,9 @@
 *Introduction*
+
 I had no idea what to expect coming into Digital Humanities. I took this class to fulfill a writing intensive requirement. With that being said, this class has turned out to be a very enjoyable class. The first day of class made it seem like it was going to be a long semester. Going through the assignments talking about coding and making blogs made it seem like I was going to be in over my head during this class. All was good though, none of the assignments were too hard, but some were a little long. This class has taught me some new skills and writing tactics that will be beneficial to me in the future. This class also taught me that digital humanities are everywhere in our daily life without us realizing it. 
   
 _Skills Learned_
+
 One of the skills that I learned in this class was Oxygen.XML. Oxygen.XML is a coding software that we used for the TEI blog. Learning how to code was really cool. I did a little bit of coding in high school, but it was nothing like what we did in this class. 
 
 Another skill I learned was how to use Github. Github was not the most intriguing thing to me when we first went over it in class, but now I see it as a useful tool to convey information. Github also allows users to do so much, like create projects or repositories. 
