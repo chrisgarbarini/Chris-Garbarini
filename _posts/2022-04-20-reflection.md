@@ -34,5 +34,7 @@ The problems I had on the About Me blog had nothing to do with the assignment it
 
 **Conclusion**
 
-I have found out that this class has made me a better writer and taught me some very useful skills for the future. This class is not a traditional English class. All of the readings that we did before every class gave me a new perspective on my writing. This is a very engaging class and none of the assignments are dull. Everything we did in Digital Humanities was for a purpose, whether that be to prepare us for the next assignment or to improve our writing.   
+I have found out that this class has made me a better writer and taught me some very useful skills for the future. This class is not a traditional English class. All of the readings that we did before every class gave me a new perspective on my writing. This is a very engaging class and none of the assignments are dull. Everything we did in Digital Humanities was for a purpose, whether that be to prepare us for the next assignment or to improve our writing. One tool that really bennefited me and others during this class was the course wesbite. The course website had all the information you needed. 
+
+
 
