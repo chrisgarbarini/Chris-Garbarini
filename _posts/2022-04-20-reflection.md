@@ -12,7 +12,9 @@ I thoroughly enjoyed most of the assignments that we completed throughout the se
 
 _TEI Blog_ 
 
-The TEI blog was probably my favorite assignment that we completed this semester. It was very interesting to go through a text passage from “Dracula’s Guest” and then code information, like em-dashes. I had no idea what Oxygen.XML was when we were going over the assignment, but it is a very beneficial tool to know how to use. Seeing how you could input some code for a quote or note was cool to see and learn how to do. 
+The TEI blog was probably my favorite assignment that we completed this semester. It was very interesting to go through a text passage from “Dracula’s Guest” and then code information, like em-dashes. I had no idea what Oxygen.XML was when we were going over the assignment, but it is a very beneficial tool to know how to use. Seeing how you could input some code for a quote or note was cool to see and learn how to do.
+
+![Picture of TEI Code](https://chrisgarbarini.github.io/Chris-Garbarini/images/TEICode.jpg)
 
 _Review Blog_
 
