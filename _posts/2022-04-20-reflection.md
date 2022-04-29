@@ -3,7 +3,7 @@
 I had no idea what to expect coming into Digital Humanities. I took this class to fulfill a writing intensive requirement. With that being said, this class has turned out to be a very enjoyable class. The first day of class made it seem like it was going to be a long semester. Going through the assignments talking about coding and making blogs made it seem like I was going to be in over my head during this class. All was good though, none of the assignments were too hard, but some were a little long. This class has taught me some new skills and writing tactics that will be beneficial to me in the future. This class also taught me that digital humanities are everywhere in our daily life without us realizing. There was one tool that really bennefited me during this class was the course wesbite. The course website had all the information I needed, and I was alwasy able to access it. 
 
  
-
+![Picture of Course Website](https://chrisgarbarini.github.io/Chris-Garbarini/images/CourseWebsite.jpg)
 
   
 **Skills Learned**
