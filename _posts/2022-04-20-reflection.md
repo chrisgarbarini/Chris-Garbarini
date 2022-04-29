@@ -28,7 +28,7 @@ _Grant Project_
 
 The grant project was also a cool project. At first, I thought we were actually making the project, so I was a little stressed. It was a long project, where we spent weeks working on it, and I felt a lot of satisfaction from turning it in. Seeing where I started on this project to when I turned in the final draft was surreal and gave me a sense of accomplishment.
 
-
+![Picture of GrantProject](https://chrisgarbarini.github.io/Chris-Garbarini/images/GrantProject.jpg)
 
 _Twitter Post_
 
