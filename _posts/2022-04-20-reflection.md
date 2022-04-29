@@ -1,6 +1,10 @@
 **Introduction**
 
-I had no idea what to expect coming into Digital Humanities. I took this class to fulfill a writing intensive requirement. With that being said, this class has turned out to be a very enjoyable class. The first day of class made it seem like it was going to be a long semester. Going through the assignments talking about coding and making blogs made it seem like I was going to be in over my head during this class. All was good though, none of the assignments were too hard, but some were a little long. This class has taught me some new skills and writing tactics that will be beneficial to me in the future. This class also taught me that digital humanities are everywhere in our daily life without us realizing it. 
+I had no idea what to expect coming into Digital Humanities. I took this class to fulfill a writing intensive requirement. With that being said, this class has turned out to be a very enjoyable class. The first day of class made it seem like it was going to be a long semester. Going through the assignments talking about coding and making blogs made it seem like I was going to be in over my head during this class. All was good though, none of the assignments were too hard, but some were a little long. This class has taught me some new skills and writing tactics that will be beneficial to me in the future. This class also taught me that digital humanities are everywhere in our daily life without us realizing. There was one tool that really bennefited me during this class was the course wesbite. The course website had all the information I needed, and I was alwasy able to access it. 
+
+ 
+
+
   
 **Skills Learned**
 
@@ -34,7 +38,6 @@ The problems I had on the About Me blog had nothing to do with the assignment it
 
 **Conclusion**
 
-I have found out that this class has made me a better writer and taught me some very useful skills for the future. This class is not a traditional English class. All of the readings that we did before every class gave me a new perspective on my writing. This is a very engaging class and none of the assignments are dull. Everything we did in Digital Humanities was for a purpose, whether that be to prepare us for the next assignment or to improve our writing. One tool that really bennefited me and others during this class was the course wesbite. The course website had all the information you needed. 
-
+I have found out that this class has made me a better writer and taught me some very useful skills for the future. This class is not a traditional English class. All of the readings that we did before every class gave me a new perspective on my writing. This is a very engaging class and none of the assignments are dull. Everything we did in Digital Humanities was for a purpose, whether that be to prepare us for the next assignment or to improve our writing. 
 
 
